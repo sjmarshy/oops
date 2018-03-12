@@ -1,0 +1,13 @@
+{
+  "name": "parsimmon-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Sam Marshall <sjmarshy@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^9.4.6",
+    "@types/parsimmon": "^1.6.1",
+    "parsimmon": "^1.6.4",
+    "typescript": "^2.7.2"
+  }
+}
